@@ -1,0 +1,25 @@
+p{
+    color: gray;
+}
+h1{
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+tbody{
+    font-style: italic;
+}
+td{
+    color: darkgreen;
+}
+tr{
+    color: blueviolet;
+}
+h2{
+    color:goldenrod;
+}
+h3{
+    color: blue;
+}
+ul{
+    color:darkblue;
+}
